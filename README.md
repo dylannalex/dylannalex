@@ -1,11 +1,11 @@
 # Hi 👋, I'm Dylan Tintenfich
-### An advanced System Engineering student who loves Python, Math and open source projects!
+### An advanced Systems Engineering student who loves Python, Math and open source projects!
 
 <p align="right">
 <img align="right" alt="Coding" width="360" height="260" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"/>
 </p>
 
-<h3 align="left">Talking about Personal Stuffs:</h3>
+<h3 align="left">Talking about Personal Stuff:</h3>
 
 - 🔭 I’m currently working on [UdemyPy](https://github.com/dylannalex/udemypy);
 
