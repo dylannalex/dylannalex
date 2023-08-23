@@ -16,6 +16,11 @@ I'm proficient at:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying the Monty Hall Problem: A Step-by-Step Guide](https://dylannalex.github.io/monty_hall/)
+- [Random Circle Problem](https://dylannalex.github.io/random_circle_problem/)
+- [ElectriPy](https://dylannalex.github.io/electripy/)
+- [Descubriendo la Belleza de las Ecuaciones Implícitas](https://dylannalex.github.io/belleza_de_las_funciones_implicitas/)
+- [La importancia un buen generador de números aleatorios en una simulación](https://dylannalex.github.io/trabajo_integrador_simulacion/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
