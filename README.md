@@ -16,7 +16,7 @@ I'm proficient at:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [k-Means Clustering for Image Quantization](https://dylannalex.github.io/image_quantization/)
+- [K-Means Clustering for Image Quantization](https://dylannalex.github.io/image_quantization/)
 - [Demystifying the Monty Hall Problem: A Step-by-Step Guide](https://dylannalex.github.io/monty_hall/)
 - [Random Circle Problem](https://dylannalex.github.io/random_circle_problem/)
 - [ElectriPy](https://dylannalex.github.io/electripy/)
