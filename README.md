@@ -16,11 +16,11 @@ I'm proficient at:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UdemyPy - Free Udemy courses every day!](https://dylannalex.github.io/udemypy/)
 - [K-Means Clustering for Image Quantization](https://dylannalex.github.io/image_quantization/)
 - [Demystifying the Monty Hall Problem: A Step-by-Step Guide](https://dylannalex.github.io/monty_hall/)
 - [Random Circle Problem](https://dylannalex.github.io/random_circle_problem/)
 - [ElectriPy](https://dylannalex.github.io/electripy/)
-- [Descubriendo la Belleza de las Ecuaciones Implícitas](https://dylannalex.github.io/belleza_de_las_funciones_implicitas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
