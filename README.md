@@ -16,11 +16,11 @@ I'm proficient at:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kitten Mixer - A Fun Application of Variational Autoencoders](https://dylannalex.github.io/kitten_mixer/)
 - [Mezclador de Gatitos - Una Divertida Aplicación de los Autoencoders Variacionales](https://dylannalex.github.io/mezclador_gatitos/)
 - [UdemyPy - Free Udemy courses every day!](https://dylannalex.github.io/udemypy/)
 - [K-Means Clustering for Image Quantization](https://dylannalex.github.io/image_quantization/)
 - [Demystifying the Monty Hall Problem: A Step-by-Step Guide](https://dylannalex.github.io/monty_hall/)
-- [Random Circle Problem](https://dylannalex.github.io/random_circle_problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
