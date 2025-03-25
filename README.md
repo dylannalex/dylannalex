@@ -16,11 +16,11 @@ I'm proficient at:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chatting with Your PDFs - a Python and LangChain Guide](https://dylannalex.github.io/talk_to_pdf/)
 - [Convert ONNX Model to HEF with Docker](https://dylannalex.github.io/onnx_to_hef/)
 - [Kitten Mixer - A Fun Application of Variational Autoencoders](https://dylannalex.github.io/kitten_mixer/)
 - [Mezclador de Gatitos - Una Divertida Aplicación de los Autoencoders Variacionales](https://dylannalex.github.io/mezclador_gatitos/)
 - [UdemyPy - Free Udemy courses every day!](https://dylannalex.github.io/udemypy/)
-- [K-Means Clustering for Image Quantization](https://dylannalex.github.io/image_quantization/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
